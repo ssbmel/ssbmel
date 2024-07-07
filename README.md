@@ -1,4 +1,6 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!&fontAlign=80&fontAlignY=40&color=gradient)
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20sb's%20Github&descAlignY=51&descAlign=62"/>
+</p>
 
 <br>
 
